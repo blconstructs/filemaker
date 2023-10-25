@@ -6,7 +6,7 @@
 
  **CKEditor** - Custom functions and scripting for the integration of CKEditor into a FileMaker solution.  CKEditor is externally hosted.
 
- **CalendarComparison** - Sample file of a calendar interface built natively in FileMaker.  There are better ways to do this typing of thing today and styling options have made this work to slow to be usable.  So this file stands as an example of knowledge for what once was and food for future thoughts.
+ **CalendarComparison** - Sample file of a calendar interface built natively in FileMaker.  There are better ways to do this type of thing today and styling options have made this work to slow to be usable.  So this file stands as an example of knowledge for what once was and food for future thoughts.
 
  **CatalogingThemeStyles** - It helps to be able to see a theme when making changes.  Here is a template to help sort that out.
 
