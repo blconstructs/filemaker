@@ -14,7 +14,7 @@
 
  **DynamicUniversalValuelists** - An example of a dynamic value list that does not require a relationship, and so is accessible regardless of context.
 
- **MethodsOfIteration&Enumeration** - An code example looking at different methods old, new, and experimental.
+ **MethodsOfIteration&Enumeration** - A code example looking at different methods old, new, and experimental.
 
  **NativeFieldAuditing** - My favorite way to do change audit.  No scripting, no custom functions.
 
