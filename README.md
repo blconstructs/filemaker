@@ -6,7 +6,7 @@
 
  **CKEditor** - Custom functions and scripting for the integration of CKEditor into a FileMaker solution.  CKEditor is externally hosted.  Custom functions provide the html and javascript for a webviewer. Scripting moves data to and from a field using the Perform Javascript in Web Viewer script step.
 
- **CalendarComparison** - Sample file of a calendar interface built natively in FileMaker.  There are better ways to do this type of thing today and layout styling options have made this work to slow to be usable.  So this file stands as an example of knowledge for what once was and food for future thought.   Sample data is provided thru the APITestWithFakeData mentioned above.  Calendar content is provided as JSON.
+ **CalendarComparison** - Sample file of a calendar interface built natively in FileMaker.  There are better ways to do this type of thing today and layout styling options have made this work to slow to be usable.  So this file stands as an example of knowledge for what once was and food for future thought.   Sample data is provided thru the APITestWithFakeData example mentioned above.  Calendar content is provided as JSON.
 
  **CatalogingThemeStyles** - It helps to be able to see a theme when making changes or fixing problems.  Here is a template to help sort that out.
 
