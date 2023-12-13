@@ -2,7 +2,7 @@
  Solutions and sample code related to FileMaker development.  All work is compatible with FileMaker v20 and beyond.
 
  
- **APILabs** - A tool to configure and explore API without having to write scripting.
+ **APILabs** - A laboratory for native API integration with FileMaker.
 
  **CKEditor** - Custom functions and scripting for the integration of CKEditor into a FileMaker solution.  CKEditor is externally hosted.  Custom functions provide the html and javascript for a webviewer. Scripting moves data to and from a field using the Perform Javascript in Web Viewer script step.
 
