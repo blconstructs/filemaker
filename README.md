@@ -12,8 +12,6 @@
  **DrillDownExample** - I simple example of a drill down list using a portal and a couple ways to drive it.  One example is scriptless.  One example makes use of the Execute FileMake Data API script step to pull data on demand.
 
  **DynamicUniversalValuelists** - An example of a dynamic value list that does not require a relationship, and so is accessible regardless of context.
- 
- **fmAPILab** - A laboratory for native API integration with FileMaker.
 
  **MethodsOfIteration&Enumeration** - A code example looking at different methods old, new, and experimental.
 
